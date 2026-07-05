@@ -125,7 +125,7 @@ Qisasi relies on a fully local **SQLite** database designed around relational pr
 The database consists of **14 interconnected tables**, grouped into three functional modules.
 
 
-![Database ER Diagram](screens/db.png)
+![Database ER Diagram](screens/db.jpg)
 ---
 
 # 🔄 Application Data Flow
